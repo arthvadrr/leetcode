@@ -10,3 +10,5 @@ class Solution(object):
             return reggie.start()
 
         return -1
+
+ 
